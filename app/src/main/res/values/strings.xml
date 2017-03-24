@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewZxingDemo</string>
+    <string name="url_qrcode">http://testqy.qianyunhui.com.cn:8889/html/redirect.html?mbid=MB000422&amp;qbid=QB000001</string>
+</resources>
